@@ -14,6 +14,8 @@ import services.Counter;
  */
 @Singleton
 public class CountController extends Controller {
+	
+	Logger.info("Welcome");
 
     private final Counter counter;
 
