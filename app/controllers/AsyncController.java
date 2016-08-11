@@ -1,4 +1,4 @@
-/* Test Jenkins */ package controllers;
+package controllers;
 
 import akka.actor.ActorSystem;
 import javax.inject.*;
