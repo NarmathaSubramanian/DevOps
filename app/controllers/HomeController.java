@@ -1,4 +1,4 @@
-/* Start Project Devops Test */package controllers;
+package controllers;
 
 import play.mvc.*;
 
