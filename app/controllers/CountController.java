@@ -1,4 +1,4 @@
-package controllers;
+/ * Test */ package controllers;
 
 import javax.inject.*;
 import play.*;
