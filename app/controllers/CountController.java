@@ -1,4 +1,4 @@
-/* Sample */ package controllers;
+package controllers;
 
 import javax.inject.*;
 import play.*;
