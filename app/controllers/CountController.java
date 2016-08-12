@@ -1,4 +1,4 @@
-/*kk*/ package controllers;
+package controllers;
 
 import javax.inject.*;
 import play.*;
