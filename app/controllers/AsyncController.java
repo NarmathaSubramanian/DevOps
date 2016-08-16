@@ -1,4 +1,4 @@
-package controllers;
+/* Test */ package controllers;
 
 import akka.actor.ActorSystem;
 import javax.inject.*;
