@@ -1,0 +1,3 @@
+There is no additional charge for Elastic Beanstalk 
+		- you pay only for the AWS resources needed to store and run your applications.
+
